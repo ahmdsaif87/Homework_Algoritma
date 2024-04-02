@@ -23,4 +23,4 @@ else :
     print(f'Kebangsaan : {wni}')
     print(f'Foto Copy KK : {kartuKeluarga}')
     print('Anda belum bisa membuat KTP hari ini')
-    print('-' * 30)
+    print('-' * 30) 
